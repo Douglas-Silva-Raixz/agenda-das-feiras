@@ -1,6 +1,9 @@
 .root{
     --fonte: 
 }
+.principa{
+   background-color:  rgb(157, 255, 252);
+}
 .topo{
     background-color: blue;
     text-align: center;
