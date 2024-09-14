@@ -1,7 +1,7 @@
 .root{
-    --fonte: 
+    --fonte: Arial;
 }
-.principal{
+.tudo{
    background-color:  rgb(157, 255, 252);
 }
 .topo{
