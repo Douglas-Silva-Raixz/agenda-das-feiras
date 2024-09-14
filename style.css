@@ -34,6 +34,7 @@
     text-align: left;
 }
 .titulo-avaliacao{
+    text-align: center;
     --var:var(--fonte);
     font-size: 30px;
     font-weight: 300;
