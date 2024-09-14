@@ -25,13 +25,13 @@
     font-weight: 300;
 }
 .feiras{
-    text-align: left;
+    text-align: center;
     --var:var(--fonte);
     font-size: 20px;
     font-weight: 200;
 }
 .avaliacao{
-    text-align: center;
+    text-align: left;
 }
 .titulo-avaliacao{
     --var:var(--fonte);
